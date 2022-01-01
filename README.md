@@ -26,6 +26,6 @@ Contact me if you want tokens to participate on Discord (@argosopentech#3524) or
 ## Trading
 Tokens can be traded on [cheap swap](https://cheapswap.io/).
 
-## [Donate](0x996133E61b81c300a37ACa9b24898685eB872b61)
+## Donate
 cheap eth: 0x996133E61b81c300a37ACa9b24898685eB872b61
 
