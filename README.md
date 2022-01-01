@@ -1,7 +1,9 @@
 # Argos Predict
 Open source [prediction markets](https://en.wikipedia.org/wiki/Prediction_market) running on [cheap eth](https://cheapeth.org/), a low cost [Ethereum](https://ethereum.org/en/) sidechain.
 
-I'm running a trial prediction market to predict the [FRED seasonally adjusted labor force participation rate](https://fred.stlouisfed.org/series/CIVPART) in June 2022. There's a series of tokens representing possible ranges for the labor force participation rate, and tokens that correctly predict the final value pay out for 1 cth. The market is being subsidized with 10,000 cth to encourage participation.
+I'm running a trial prediction market to predict the [FRED seasonally adjusted labor force participation rate](https://fred.stlouisfed.org/series/CIVPART) in June 2022. There are a series of tokens representing possible ranges for the labor force participation rate in June 2022, and tokens that correctly predict the final value pay out for 1 cth. For example, if the labor force participation rate is 61% in June 2022 then "60-61.9" tokens would be redeemable for 1 cth.
+
+The market is being subsidized with 10,000 cth to encourage participation.
 
 Contact me if you want tokens to participate on Discord (@argosopentech#3524) or email (admin@argosopentech.com).
 
